@@ -190,7 +190,7 @@ FinanceWise/
 
 ## Contributors 👥
 
-- **Jaydeep Pokahriya** – Full Web Stack Development (Flask Backend + Frontend) and GitHub Handling
+- **Jaydeep Pokhariya** – Full Web Stack Development (Flask Backend + Frontend) and GitHub Handling
 - **Harsh** – Sentinel AI Model Training & Optimization
 - **Jayesh** – Moneto API Integration & LLM Configuration in Sentinel
 - **Krrish** – Project Presentation & Technical Documentation
